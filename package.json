@@ -21,7 +21,8 @@
     "node-vad": "^1.1.4",
     "openai": "^4.53.1",
     "speaker": "^0.5.5",
-    "typescript": "^5.5.4"
+    "typescript": "^5.5.4",
+    "winston": "^3.13.1"
   },
   "devDependencies": {
     "@types/fluent-ffmpeg": "^2.1.24",
